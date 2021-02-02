@@ -56,7 +56,7 @@
   <header id="header">
     <div class="container">
       <div id="logo" class="pull-left">
-        <h1><a href="#body" class="scrollto"><span><i class="fa fa-bolt" aria-hidden="true"></i></span>PARTY</a></h1> 
+        <h1><a href="#body" class="scrollto"><span><i class="fa fa-bolt" aria-hidden="true"></i></span>Feyyaz Can KÖSE</a></h1> 
         <!-- <a href="#body"><img src="img/logo.png" alt="" title="" /></a>-->
       </div>
       <nav id="nav-menu-container">
