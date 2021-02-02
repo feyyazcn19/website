@@ -61,14 +61,12 @@
       </div>
       <nav id="nav-menu-container">
         <ul class="nav-menu">
-          <li class="menu-active"><a href="#body">Home</a></li>
-          <li><a href="#services">We Do</a></li>
-          <li><a href="#about">Who We</a></li>
-          <li><a href="#portfolio">Gallery</a></li>
-          <li><a href="#event">Events</a></li>
-          <li><a href="#team">Team</a></li> 
-		  <li><a href="#price">Price</a></li>
-          <li><a href="#contact">Contact</a></li>
+          <li class="menu-active"><a href="#body">Ana Sayfa</a></li>
+          <li><a href="#services">Kitaplar</a></li>
+          <li><a href="#about">Ben Kimim</a></li>
+          <li><a href="#portfolio">Videolar</a></li>
+          <li><a href="#event">Blog</a></li>
+          <li><a href="#contact">İletişim</a></li>
         </ul>
       </nav><!-- #nav-menu-container -->
     </div>
@@ -83,7 +81,7 @@
         <a href="#about" class="btn-get-started scrollto">Book Now</a> 
       </div>
     </div>
-    <div class="item" style="background-image: url('img/intro-carousel/1.jpg');"></div>  
+    <div class="item" style="background-image: url('img/intro-carousel/close-up-image-programer-working-his-desk-office.jpg');"></div>  
   </section><!-- #intro -->
   <main id="main">
     <!--==========================
