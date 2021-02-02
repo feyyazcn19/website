@@ -1,9 +1,3 @@
-<!-- =================================================
-Theme Name: Party Bootstrap Theme 
-Author: WebThemez.com
-License: https://webthemez.com/license
-======================================================= -->
-  
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -61,12 +55,10 @@ License: https://webthemez.com/license
   ============================-->
   <header id="header">
     <div class="container">
-
       <div id="logo" class="pull-left">
         <h1><a href="#body" class="scrollto"><span><i class="fa fa-bolt" aria-hidden="true"></i></span>PARTY</a></h1> 
         <!-- <a href="#body"><img src="img/logo.png" alt="" title="" /></a>-->
       </div>
-
       <nav id="nav-menu-container">
         <ul class="nav-menu">
           <li class="menu-active"><a href="#body">Home</a></li>
@@ -81,12 +73,10 @@ License: https://webthemez.com/license
       </nav><!-- #nav-menu-container -->
     </div>
   </header><!-- #header -->
-
   <!--==========================
     Intro Section
   ============================-->
   <section id="intro">
-
     <div class="intro-content">
       <h2><span>Party Night</span><br>Crazy Non-Stop Music Reload</h2>
       <div>
@@ -95,10 +85,7 @@ License: https://webthemez.com/license
     </div>
     <div class="item" style="background-image: url('img/intro-carousel/1.jpg');"></div>  
   </section><!-- #intro -->
-
   <main id="main">
-
-
     <!--==========================
       Services Section
     ============================-->
@@ -108,9 +95,7 @@ License: https://webthemez.com/license
           <h2>We Do</h2>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt fugiat culpa esse aute nulla. malis nulla duis fugiat culpa esse aute nulla ipsum velit export irure minim illum fore</p>
         </div>
-
         <div class="row">
-
           <div class="col-lg-4">
             <div class="box wow fadeInLeft">
               <div class="icon"><i class="fa fa-diamond"></i></div>
@@ -118,7 +103,6 @@ License: https://webthemez.com/license
               <p class="description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt fugiat culpa esse aute nulla.</p>
             </div>
           </div>
-
           <div class="col-lg-4">
             <div class="box wow fadeInRight">
               <div class="icon"><i class="fa fa-hand-pointer-o"></i></div>
@@ -126,7 +110,6 @@ License: https://webthemez.com/license
               <p class="description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt fugiat culpa esse aute nulla.</p>
             </div>
           </div>
-
           <div class="col-lg-4">
             <div class="box wow fadeInLeft" data-wow-delay="0.2s">
               <div class="icon"><i class="fa fa-music"></i></div>
@@ -134,9 +117,7 @@ License: https://webthemez.com/license
               <p class="description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt fugiat culpa esse aute nulla.</p>
             </div>
           </div>
- 
         </div>
-
       </div>
     </section><!-- #services -->
     <!--==========================
@@ -162,13 +143,10 @@ License: https://webthemez.com/license
           <div class="col-lg-4 about-img">
             <img src="img/about-img.png" alt="">
           </div>
-
         </div>
-
       </div>
     </section><!-- #about -->
-
-    <!--==========================
+    <!--=========================
       Clients Section
     ============================-->
     <section id="clients" class="wow fadeInUp">
@@ -177,7 +155,6 @@ License: https://webthemez.com/license
           <h2>Sponsers</h2>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt fugiat culpa esse aute nulla. duis fugiat culpa esse aute nulla ipsum velit export irure minim illum fore</p>
         </div>
-
         <div class="owl-carousel clients-carousel">
           <img src="img/clients/client-1.png" alt="">
           <img src="img/clients/client-2.png" alt="">
@@ -186,10 +163,8 @@ License: https://webthemez.com/license
           <img src="img/clients/client-5.png" alt="">
           <img src="img/clients/client-6.png" alt="">
         </div>
-
       </div>
     </section><!-- #clients -->
-
     <!--==========================
       Our Portfolio Section
     ============================-->
@@ -200,10 +175,8 @@ License: https://webthemez.com/license
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt fugiat culpa esse aute nulla. nulla duis fugiat culpa esse aute nulla ipsum velit export irure minim illum fore</p>
         </div>
       </div>
-
       <div class="container-fluid">
         <div class="row no-gutters">
-
           <div class="col-lg-3 col-md-4">
             <div class="portfolio-item wow fadeInUp">
               <a href="img/portfolio/1.jpg" class="portfolio-popup">
@@ -214,7 +187,6 @@ License: https://webthemez.com/license
               </a>
             </div>
           </div>
-
           <div class="col-lg-3 col-md-4">
             <div class="portfolio-item wow fadeInUp">
               <a href="img/portfolio/2.jpg" class="portfolio-popup">
@@ -225,7 +197,6 @@ License: https://webthemez.com/license
               </a>
             </div>
           </div>
-
           <div class="col-lg-3 col-md-4">
             <div class="portfolio-item wow fadeInUp">
               <a href="img/portfolio/3.jpg" class="portfolio-popup">
@@ -236,7 +207,6 @@ License: https://webthemez.com/license
               </a>
             </div>
           </div>
-
           <div class="col-lg-3 col-md-4">
             <div class="portfolio-item wow fadeInUp">
               <a href="img/portfolio/4.jpg" class="portfolio-popup">
@@ -247,7 +217,6 @@ License: https://webthemez.com/license
               </a>
             </div>
           </div>
-
           <div class="col-lg-3 col-md-4">
             <div class="portfolio-item wow fadeInUp">
               <a href="img/portfolio/5.jpg" class="portfolio-popup">
@@ -258,7 +227,6 @@ License: https://webthemez.com/license
               </a>
             </div>
           </div>
-
           <div class="col-lg-3 col-md-4">
             <div class="portfolio-item wow fadeInUp">
               <a href="img/portfolio/6.jpg" class="portfolio-popup">
@@ -269,7 +237,6 @@ License: https://webthemez.com/license
               </a>
             </div>
           </div>
-
           <div class="col-lg-3 col-md-4">
             <div class="portfolio-item wow fadeInUp">
               <a href="img/portfolio/7.jpg" class="portfolio-popup">
@@ -280,7 +247,6 @@ License: https://webthemez.com/license
               </a>
             </div>
           </div>
-
           <div class="col-lg-3 col-md-4">
             <div class="portfolio-item wow fadeInUp">
               <a href="img/portfolio/8.jpg" class="portfolio-popup">
@@ -291,12 +257,9 @@ License: https://webthemez.com/license
               </a>
             </div>
           </div>
-
         </div>
-
       </div>
     </section><!-- #portfolio -->
-
 	  <!--==========================
       Event Section
     ============================-->
@@ -306,9 +269,7 @@ License: https://webthemez.com/license
           <h2>Our Events</h2>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt fugiat culpa esse aute nulla. malis nulla duis fugiat culpa esse aute nulla ipsum velit export irure minim illum fore</p>
         </div>
-
         <div class="row">
-
           <div class="col-lg-12">
             <div class="box2 wow fadeInLeft">
               <div class="leftSec">
@@ -321,7 +282,6 @@ License: https://webthemez.com/license
 			  </div>
             </div>
           </div>
-
           <div class="col-lg-12">
             <div class="box2 wow fadeInRight">
                    <div class="leftSec">
@@ -334,7 +294,6 @@ License: https://webthemez.com/license
 			  </div>
             </div>
           </div>
-
           <div class="col-lg-12">
             <div class="box2 wow fadeInLeft" data-wow-delay="0.2s">
                  <div class="leftSec">
@@ -347,7 +306,6 @@ License: https://webthemez.com/license
 			  </div>
             </div>
           </div>
-
           <div class="col-lg-12">
             <div class="box2 wow fadeInRight" data-wow-delay="0.2s">
                   <div class="leftSec">
@@ -360,8 +318,6 @@ License: https://webthemez.com/license
 			  </div>
             </div>
           </div>
- 
-
           <div class="col-lg-12">
             <div class="box2 wow fadeInRight" data-wow-delay="0.2s">
                   <div class="leftSec">
@@ -375,10 +331,8 @@ License: https://webthemez.com/license
             </div>
           </div>
         </div>
-
       </div>
     </section><!-- #services -->
-	
     <!--==========================
       Testimonials Section
     ============================-->
@@ -389,56 +343,43 @@ License: https://webthemez.com/license
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt fugiat culpa esse aute nulla. duis fugiat culpa esse aute nulla ipsum velit export irure minim illum fore</p>
         </div>
         <div class="owl-carousel testimonials-carousel">
-
             <div class="testimonial-item">
               <p>Dolores quae porro consequatur aliquam, incidunt fugiat culpa esse aute nulla. duis fugiat culpa esse aute nulla ipsum velit export irure minim illum fore
-                
               </p> 
               <h3>Mrio James</h3>
               <h4>CEO &amp; Founder</h4>
             </div>
-
             <div class="testimonial-item">
               <p>
                 Dolores quae porro consequatur aliquam, incidunt fugiat culpa esse aute nulla. duis fugiat culpa esse aute nulla ipsum velit export irure minim illum fore
-                
               </p> 
               <h3>Finton Gofnes</h3>
               <h4>CTO</h4>
             </div>
-
             <div class="testimonial-item">
               <p>
                 Dolores quae porro consequatur aliquam, incidunt fugiat culpa esse aute nulla. duis fugiat culpa esse aute nulla ipsum velit export irure minim illum fore
-                
               </p> 
               <h3>Marcus Kell</h3>
               <h4>Marketing</h4>
             </div>
-
             <div class="testimonial-item">
               <p>
                 Dolores quae porro consequatur aliquam, incidunt fugiat culpa esse aute nulla. duis fugiat culpa esse aute nulla ipsum velit export irure minim illum fore
-                
               </p> 
               <h3>Williams Belly</h3>
               <h4>Accounts</h4>
             </div>
-
             <div class="testimonial-item">
               <p>
                 Dolores quae porro consequatur aliquam, incidunt fugiat culpa esse aute nulla. duis fugiat culpa esse aute nulla ipsum velit export irure minim illum fore
-                
               </p> 
               <h3>Larry Hanson</h3>
               <h4>Investor</h4>
             </div>
-
         </div>
-
       </div>
     </section><!-- #testimonials -->
-
     <!--==========================
       Call To Action Section
     ============================-->
@@ -454,10 +395,8 @@ License: https://webthemez.com/license
               <img src="img/action-img.jpg" alt="">
           </div>
         </div>
-
       </div>
     </section><!-- #call-to-action -->
-
     <!--==========================
       Our Team Section
     ============================-->
@@ -482,7 +421,6 @@ License: https://webthemez.com/license
               </div>
             </div>
           </div>
-
           <div class="col-lg-3 col-md-6">
             <div class="member">
               <div class="pic"><img src="img/team2.jpg" alt=""></div>
@@ -498,7 +436,6 @@ License: https://webthemez.com/license
               </div>
             </div>
           </div>
-
           <div class="col-lg-3 col-md-6">
             <div class="member">
               <div class="pic"><img src="img/team3.jpg" alt=""></div>
@@ -514,7 +451,6 @@ License: https://webthemez.com/license
               </div>
             </div>
           </div>
-
           <div class="col-lg-3 col-md-6">
             <div class="member">
               <div class="pic"><img src="img/team4.jpg" alt=""></div>
@@ -531,7 +467,6 @@ License: https://webthemez.com/license
             </div>
           </div>
         </div>
-
       </div>
     </section><!-- #team -->
 <!--==================
@@ -625,7 +560,6 @@ Price
           <h2>Contact Us</h2>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt fugiat culpa esse aute nulla. malis nulla duis fugiat culpa esse aute nulla ipsum velit export irure minim illum fore</p>
         </div>
-
         <div class="row contact-info">
          <div class="col-lg-5"> 
             <div class="contact-address">
@@ -647,7 +581,6 @@ Price
 		 <div class="col-lg-7">
 		      <div class="container">
         <div class="form"> 
-		  
 		   <!-- Form itself -->
           <form name="sentMessage" class="well" id="contactForm"  novalidate> 
 		 <div class="control-group">
@@ -656,7 +589,6 @@ Price
 			   	   placeholder="Full Name" id="name" required
 			           data-validation-required-message="Please enter your name" />
 			  <p class="help-block"></p>
-
 		   </div>
 	         </div> 	
                 <div class="form-group">
@@ -666,7 +598,6 @@ Price
 			   		   data-validation-required-message="Please enter your email" />
 		</div>
 	    </div> 	
-			  
                <div class="form-group">
                  <div class="controls">
 				 <textarea rows="10" cols="100" class="form-control" 
@@ -680,22 +611,15 @@ Price
 	    <button type="submit" class="btn btn-primary pull-right">Send</button><br />
           </form>
         </div>
-
       </div>
 		 </div>
-         
-
         </div>
       </div>
-
       <div class="container mb-4 map">
 	  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d387191.33750346623!2d-73.979681!3d40.6974881!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY%2C+USA!5e0!3m2!1sen!2sin!4v1541477355474" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe> 
       </div>
- 
     </section><!-- #contact -->
-
   </main>
-
   <!--==========================
     Footer
   ============================-->
