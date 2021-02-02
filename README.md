@@ -14,11 +14,8 @@
         <strong>Bölüm:</strong>Bilişim Sistemleri Mühendisliği<br>
         <strong>Okul:</strong>Kocaeli Üniversitesi<br><br>
         <hr>
-
-       
         <a href="index.html" target="_blank" rel="noopener noreferrer">1 Layout</a><br>
-   
-        <hr>
+        </hr>
     </p>
 
 </body>
